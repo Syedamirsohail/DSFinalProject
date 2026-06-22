@@ -4,8 +4,6 @@
 
 This project investigates whether **clinical and pathological features** of breast cancer patients — such as tumour size, lymph node involvement, and degree of malignancy — can be used to predict whether a patient will experience **cancer recurrence** after treatment. Early identification of high-risk patients can support closer monitoring and more targeted treatment planning.
 
-A key focus of this project is comparing **Label Encoding vs One-Hot Encoding** for categorical clinical variables, and demonstrating how encoding choice can introduce misleading numerical relationships in medical datasets.
-
 ## 🎯 Research Question
 
 Can clinical and pathological features be used to classify whether a breast cancer patient will experience recurrence after treatment, and how does the choice of categorical encoding method affect the reliability of this analysis?
